@@ -1,2 +1,0 @@
-git submodule add https://github.com/yongkangchen/remote-sync remote-sync
-git submodule add https://github.com/yongkangchen/remote-sync remote-sync
