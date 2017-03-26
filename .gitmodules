@@ -1,0 +1,3 @@
+[submodule "packages/remote-sync"]
+	path = packages/remote-sync
+	url = https://github.com/yongkangchen/remote-sync
